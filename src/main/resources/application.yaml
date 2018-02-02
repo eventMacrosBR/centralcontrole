@@ -1,0 +1,5 @@
+javafx: 
+    title: Central de Controles Openkore para bRO
+    stage:
+        width: 920
+        height: 700
